@@ -70,6 +70,15 @@
    width: 30px;
    background-color: red;
  }
+ .redButton1 {
+    border-width: 1px;
+    border-radius: 100%;
+    border-style: groove;
+    border-color: #ffffff;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+  }
 .orangeButton {
    border-width: 1px;
    border-radius: 100%;
